@@ -20,10 +20,8 @@
 	"TargetPlatforms": [
 		"AllDesktop",
 		"HTML5",
-		"IOS",
 		"LinuxNoEditor",
 		"MacNoEditor",
-		"TVOS",
 		"WindowsNoEditor",
 		"Windows"
 	]
